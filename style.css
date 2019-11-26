@@ -4,6 +4,7 @@ body{
 	margin:0;
 	margin-left: 200px;
 	margin-right: 200px;
+	font-family: monospace;
 }
 
 .page {
@@ -48,10 +49,11 @@ h1{
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
+	font-family: monospace;
 }
 
 h2{
-  font-family:Georgia;
+  font-family:monospace;
 }
 
 .top-nav ul{
