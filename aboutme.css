@@ -1,0 +1,60 @@
+body{
+	background-color: #f3f3f3;
+	padding:0;
+	margin: 0;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 20px;
+	font-family: Bookman;
+}
+
+.page {
+	margin: 40px auto;
+	border: 2px solid black;
+	border-radius: 15px;
+	background-color: white;
+	overflow: hidden;
+}
+
+.main-nav{
+	background-image:url(https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/11/25134153/aphelios-splash.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center -60px;
+	padding: 200px 20px 0px 20px;
+}
+
+.main-nav a{
+	display:inline-block;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 10px solid white;
+	background-color:rgba(255, 255, 255, 0.64);
+	color:black;
+	text-decoration:none;
+	padding: 5px 10px;
+	position:relative;
+	top:10px;
+	transition: top 300ms ease;
+}
+
+.main-nav a:hover{
+	top:5px;
+}
+
+.page-content{
+	padding: 20px;
+}
+
+h1{
+	background-color: #FE0101;
+	padding: 10px 20px;
+	margin-left: -20px;
+	margin-right: -20px;
+	color: aliceblue;
+	font-family: Bookman;
+	
+}
+
+h2{
+  font-family:Bookman;
+}
